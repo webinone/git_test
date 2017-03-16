@@ -7,3 +7,5 @@ develop
 master
 -------
 TAG1
+-------
+master2
